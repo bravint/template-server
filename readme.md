@@ -1,4 +1,4 @@
-# Server Template
+# TypeScript Express Server
 
 ## Introduction
 
