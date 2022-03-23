@@ -12,5 +12,5 @@ Start server: <code>npm run devstart</code>
 
 ## Usage Guide
 
-Route setup at `http://localhost:4000/test`
+Route setup at `http://localhost:4000/test`\
 ``GET`` request should return a HTTP response of 200 and text ``in test controller``
